@@ -52,15 +52,15 @@ a {
   color: #0074d9;
 }
 
-/* li:hover {
-  background-color: #0074d9;
-  color: #fff;
-} */
-
 a:hover {
   background-color: #0074d9;
   color: #fff;
 }
+
+.current {
+
+}
+
 
 @media only screen and (min-width: 38em) {
 
